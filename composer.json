@@ -1,0 +1,21 @@
+{
+    "name": "renato/weather_project",
+    "description": "weather php pratice project using weather api",
+    "autoload": {
+        "psr-4": {
+            "Renato\\WeatherProject\\": "src/",
+            "src\\Controller\\": "src/Controller/",
+            "public\\routes\\" : "public\\routes"
+        },
+        "files": [
+
+        ]
+    },
+    "authors": [
+        {
+            "name": "NatoRodrigues",
+            "email": "renwise2.0@gmail.com"
+        }
+    ],
+    "require": {}
+}
